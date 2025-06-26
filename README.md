@@ -1,1 +1,1 @@
-move your hand and built a automated cursor
+"move your hand and built a automated cursor"
